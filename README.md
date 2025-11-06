@@ -48,9 +48,9 @@ Before running, make sure you have installed:
 - [Git](https://git-scm.com/)
 - (Optional) [Node.js](https://nodejs.org/) and [Composer](https://getcomposer.org/) for local development
 
-git clone https://github.com/hakim220619/project-example.git
-cd project-example
-docker-compose up --build
+- git clone https://github.com/hakim220619/project-example.git
+- cd project-example
+- docker-compose up --build
 
 | Service          | URL                                            | Description                |
 | ---------------- | ---------------------------------------------- | -------------------------- |
